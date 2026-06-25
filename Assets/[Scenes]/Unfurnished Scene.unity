@@ -1498,6 +1498,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c09eb7db997c8460db954cd4eb2ba74d, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6781f0606b6d64dd8ab29b18e5e42957, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1574,7 +1578,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2458313388228714185, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.46
+      value: 6.38
       objectReference: {fileID: 0}
     - target: {fileID: 2458313388228714185, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalRotation.w
